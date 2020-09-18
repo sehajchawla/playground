@@ -1,4 +1,4 @@
-# Playground changes by Sehaj
+# Playground changes by Sehaj AND Wenqi
 
 A place to play with `git`.
 
